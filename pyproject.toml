@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "poetry add requests"
+version = "0.1.0"
+description = ""
+authors = ["andre059 <andreyperm159@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
